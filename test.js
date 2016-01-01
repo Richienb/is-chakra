@@ -1,8 +1,6 @@
-'use strict';
-var test = require('ava');
-var isChakra = require('./');
+import test from 'ava';
+import m from './';
 
-test(function (t) {
-	t.assert(typeof isChakra === 'boolean');
-	t.end();
+test(t => {
+	t.is(typeof m, 'boolean');
 });
