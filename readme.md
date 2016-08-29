@@ -15,19 +15,14 @@ $ npm install --save is-chakra
 ## Usage
 
 ```js
-var isChakra = require('is-chakra');
+const isChakra = require('is-chakra');
 
 if (isChakra) {
-	process.exit(666); // :p
+	console.log('Running in Chakra');
 }
 ```
 
 
-## Related
-
-- [chakra-nerp](https://github.com/sindresorhus/chakra-nerp) - Prevent your code from being run in the Chakra JavaScript engine
-
-
 ## License
 
-MIT © [Sindre Sorhus](http://sindresorhus.com)
+MIT © [Sindre Sorhus](https://sindresorhus.com)
