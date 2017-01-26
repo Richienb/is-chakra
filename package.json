@@ -10,7 +10,7 @@
     "url": "sindresorhus.com"
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=4"
   },
   "scripts": {
     "test": "xo && ava"
@@ -20,6 +20,8 @@
   ],
   "keywords": [
     "chakra",
+    "chakracore",
+    "core",
     "engine",
     "edge",
     "microsoft",
