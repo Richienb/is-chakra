@@ -1,4 +1,4 @@
-# is-chakra [![Build Status](https://travis-ci.org/sindresorhus/is-chakra.svg?branch=master)](https://travis-ci.org/sindresorhus/is-chakra)
+# is-chakra
 
 > Detect if your code is running in the [Chakra](https://en.m.wikipedia.org/wiki/Chakra_(JavaScript_engine)) JavaScript engine
 
